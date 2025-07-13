@@ -1,4 +1,4 @@
-# Fuel Theft Prediction and Vehicle Monitoring System
+# Condition Monitoring System for a Vehicle 
 
 ## **Overview**
 This project is an **Integrated Vehicle Monitoring, Maintenance, and Management System (IV3MS)** that focuses on predictive and real-time monitoring of vehicle health, including an innovative **Fuel Theft Prediction System**. It utilizes **OBD-II technology**, data processing, and real-time monitoring to achieve efficient maintenance, fuel management, and theft detection.
